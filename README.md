@@ -5,6 +5,7 @@
 💬 Ask me about anything related to Python , Oracle Database Administration 19c , Red hat Linux Server Administration 
 
 📫 How to reach me:
-https://www.linkedin.com/in/shashangkaup/
 
-https://github.com/shashangka-upadhyaya
+⚫ https://www.linkedin.com/in/shashangkaup/
+
+⚫ https://github.com/shashangka-upadhyaya
