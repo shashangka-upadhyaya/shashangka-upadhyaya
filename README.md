@@ -9,7 +9,6 @@
 - 💻 Software Engineer sharing my journey and learnings in tech.  
 - 🎓 Master's in Computer Science from the University of Central Missouri, Lee's Summit.  
 - 🚀 Currently building my own product: **Bubblebook.ai**.  
-- 📊 Learning Data Analytics and exploring [data visualizations](https://pudding.cool/2018/08/pockets/).
 
 ---
 
