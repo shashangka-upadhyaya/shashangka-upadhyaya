@@ -15,4 +15,4 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ### 📈 GitHub Stats
-![Shashangka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashangka-upadhyay&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Shashangka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashangka-upadhyaya&count_private=true&show_icons=true&theme=radical&hide_rank=false)
