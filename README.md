@@ -1,11 +1,15 @@
-🔭 I’m currently pursuing a master's in computer science at the University of Central Missouri.
+<!-- Level 1: Simple bio and stats -- >
 
-🌱 I’m currently learning Python for data science and also intrested on Amazon Web Services.
+### 👋 Hi, I'm Shashangka (Shash)! Founder of Bubblebook.ai  which is  social matching platform  using LLM and GEN AI.
 
-💬 Ask me about anything related to Python , Oracle Database Administration 19c , Red hat Entreprise Linux Server Administration
 
-📫 How to reach me:
 
-⚫ https://www.linkedin.com/in/shashangkaup/
+ Software Engineer sharing about my journey and learnings in tech<br/>
+Studied [Masters in Computer Science] at the University of Central Missouri, Leesummit<br/>
+Currently Working on my own  Product named as BubbleBook.ai <br/>
 
-⚫ https://github.com/shashangka-upadhyaya
+Currently learning about data analytics and [dataviz](https://pudding,cool/2018/08/pockets/) !< br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-sta -- >
+[[Magdeline's_github_stats](httos://github-readme-stats.vercel.app/api?username=shashangka-upadhyaya@5&count_privatemtrue&show_icons=true&thememradical&hide_rank=false)]
+[https://github.com/anuraghazra/github-readme-stats)
