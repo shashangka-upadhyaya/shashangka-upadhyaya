@@ -1,15 +1,18 @@
-<!-- Level 1: Simple bio and stats -- >
+<!-- Level 1: Simple bio and stats -->
 
-### 👋 Hi, I'm Shashangka (Shash)! Founder of Bubblebook.ai  which is  social matching platform  using LLM and GEN AI.
+### 👋 Hi, I'm Shashangka (Shash)!  
+**Founder of [Bubblebook.ai](https://bubblebook.ai)** – a social matching platform powered by LLMs and Generative AI.
 
+---
 
+**About Me:**  
+- 💻 Software Engineer sharing my journey and learnings in tech.  
+- 🎓 Master's in Computer Science from the University of Central Missouri, Lee's Summit.  
+- 🚀 Currently building my own product: **Bubblebook.ai**.  
+- 📊 Learning Data Analytics and exploring [data visualizations](https://pudding.cool/2018/08/pockets/).
 
- Software Engineer sharing about my journey and learnings in tech<br/>
-Studied [Masters in Computer Science] at the University of Central Missouri, Leesummit<br/>
-Currently Working on my own  Product named as BubbleBook.ai <br/>
+---
 
-Currently learning about data analytics and [dataviz](https://pudding,cool/2018/08/pockets/) !< br/>
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-sta -- >
-[[Magdeline's_github_stats](httos://github-readme-stats.vercel.app/api?username=shashangka-upadhyaya@5&count_privatemtrue&show_icons=true&thememradical&hide_rank=false)]
-[https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+### 📈 GitHub Stats
+![Shashangka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashangka-upadhyay&count_private=true&show_icons=true&theme=radical&hide_rank=false)
