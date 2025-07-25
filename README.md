@@ -19,7 +19,7 @@
 
 ### 🏆 GitHub Trophies
 
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shashangka-upadhyaya&theme=radical)
 ---
 
 ### 📫 Connect with me
