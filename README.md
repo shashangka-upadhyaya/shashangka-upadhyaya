@@ -1,5 +1,3 @@
-<!-- Level 1: Simple bio and stats -->
-
 ### 👋 Hi, I'm Shashangka (Shash)!  
 **Founder of [Bubblebook.ai](https://bubblebook.ai)** – a social matching platform powered by LLMs and Generative AI.
 
@@ -12,6 +10,18 @@
 
 ---
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ### 📈 GitHub Stats
 ![Shashangka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashangka-upadhyaya&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashangka-upadhyaya&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashangka-upadhyaya&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shashangka-upadhyaya&theme=radical)
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/shashangka-upadhyaya/)
+- [Twitter](https://twitter.com/shashangka_up)
