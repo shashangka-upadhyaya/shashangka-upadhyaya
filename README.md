@@ -11,7 +11,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=shashangka-upadhyaya&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=swat-77&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashangka-upadhyaya&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashangka-upadhyaya&theme=radical)
 
