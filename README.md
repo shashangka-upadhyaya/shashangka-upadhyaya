@@ -23,5 +23,6 @@
 ---
 
 ### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/shashangka-upadhyaya/)
-- [Twitter](https://twitter.com/shashangka_up)
+- [LinkedIn](https://www.linkedin.com/in/shashup/)
+- [Twitter](https://x.com/ShashankUp8848)
+- [Instagram](https://www.instagram.com/imcharlesboy/)
