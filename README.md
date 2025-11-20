@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Shashangka (Shash)!  
-**Full stack Developer at  [Bubblebook.ai](https://bubblebook.ai)** – a social matching platform powered by LLMs and Generative AI.
+** Founding Devops & Full stack Developer at  [Bubblebook.ai](https://bubblebook.ai)** – a social matching platform powered by LLMs and Generative AI 
 
 ---
 
