@@ -1,5 +1,6 @@
 ### 👋 Hi, I'm Shashangka (Shash)!  
-**Java Full‑Stack Developer with 8+ years of experience designing, developing, and deploying enterprise‑grade, cloud‑native applications across domains including FinTech, Digital Marketing/MarTech, SaaS workflow automation, Identity Verification/KYC, and Analytics platforms.
+
+Java Full‑Stack Developer with 8+ years of experience designing, developing, and deploying enterprise‑grade, cloud‑native applications across domains including FinTech, Digital Marketing/MarTech, SaaS workflow automation, Identity Verification/KYC, and Analytics platforms.
 
 ---
 
